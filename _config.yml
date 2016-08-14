@@ -1,23 +1,9 @@
 name: Charge The Globe
-favicon: null
 layout_spectrum: 0.7335
 typography_spectrum: 0.90609
-author:
-  name: Jenny Marsden
-  email: chargetheglobe@gmail.com
-title: Charge The Globe
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#ffffff'
@@ -30,3 +16,7 @@ color:
   saturation: 0.2893924838863313
   rhythmicContrast: 0.6349660221021622
 purpose: []
+title: Charge The Globe
+author:
+  name: Jenny Marsden
+  email: chargetheglobe@gmail.com
