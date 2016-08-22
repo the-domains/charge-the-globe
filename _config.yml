@@ -1,9 +1,4 @@
-name: Charge The Globe
-layout_spectrum: 0.7335
 typography_spectrum: 0.90609
-cta: {}
-analytics: {}
-opengraph: {}
 color:
   brandColors:
     - '#ffffff'
@@ -15,8 +10,14 @@ color:
   lightness: 0.2204755067359656
   saturation: 0.2893924838863313
   rhythmicContrast: 0.6349660221021622
-purpose: []
-title: Charge The Globe
+opengraph: {}
+layout_spectrum: 0.7335
+analytics: {}
 author:
   name: Jenny Marsden
   email: chargetheglobe@gmail.com
+name: Charge The Globe
+cta: {}
+title: Charge The Globe
+description: 'One womans journey to the end of the earth: and hopefully back!'
+purpose: []
