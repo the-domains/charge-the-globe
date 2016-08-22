@@ -18,6 +18,10 @@ author:
   email: chargetheglobe@gmail.com
 name: Charge The Globe
 cta: {}
+navigation:
+  - name: Photo Of The Week
+    url: 'http://www.chargetheglobe.com/photo-of-the-week'
+    type: external
 title: Charge The Globe
 description: 'One womans journey to the end of the earth: and hopefully back!'
 purpose: []
