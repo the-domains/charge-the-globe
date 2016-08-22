@@ -1,17 +1,17 @@
-typography_spectrum: 0.90609
+layout_spectrum: 0.15492197452113032
+typography_spectrum: 0.10702311364002526
 color:
   brandColors:
-    - '#ffffff'
-    - '#c792aa'
-    - '#026472'
-    - '#784625'
-    - '#f87505'
-  brandStrength: 0.504446889506653
-  lightness: 0.2204755067359656
-  saturation: 0.2893924838863313
-  rhythmicContrast: 0.6349660221021622
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.4308985769748688
+  lightness: 0.029224376194179058
+  saturation: 0.9656230721157044
+  rhythmicContrast: 0.17175386799499393
 opengraph: {}
-layout_spectrum: 0.7335
 analytics: {}
 author:
   name: Jenny Marsden
